@@ -29,5 +29,5 @@ Examine the `05-prove-response.md` document to provide your answers to questions
 
 ## Submission
 You need to submit the following for this assignment:
-* Make sure all of your changes are committed and pushed to the `main` branch of your **byui-cse212-classroom-w25-prove-05-prove-05** repository
+* Make sure all of your changes are committed and pushed to the `main` branch of your **w25-prove-05-Lzybear22-main** repository
 * Submit a link to your repository in I-Learn
